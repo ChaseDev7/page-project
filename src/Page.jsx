@@ -17,7 +17,7 @@ function Header() {
 
 function Footer() {
   return (
-    <footer>
+    <footer className="footer">
       <p>(C) 2023. ChaseDev. All rights reserved.</p>
     </footer>
   )
