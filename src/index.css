@@ -23,6 +23,7 @@ body {
 
 .container {
   padding: 0 20px;
+  margin-top: 70px;
 }
 
 .react-logo {
@@ -37,30 +38,34 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgb(144, 35, 144);
+  background-color: rgb(78, 160, 228);
   color: white;
   justify-content: center;
 }
 
 .nav-bar {
   display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   justify-content: space-between;
   background-color: rgb(242, 240, 240);
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
   font-size: 16px;
+  border-bottom: 2px solid rgb(78, 160, 228);
 }
 
 .nav-items {
   list-style: none;
   display: flex;
-  margin-right: 10px;
+  padding-right: 20px;
 }
 
 .list-item {
   padding: 0 10px;
-  border-bottom: 2px solid rgb(176, 26, 176);
-  margin: 0 5px;
+  margin: 0 10px;
 }
 
 ol {
@@ -68,6 +73,6 @@ ol {
 }
 
 h2 {
-  border-left: 5px solid rgb(176, 26, 176);
+  border-left: 5px solid rgb(78, 160, 228);
   padding-left: 10px;
 }
