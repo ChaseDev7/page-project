@@ -1,8 +1,5 @@
-# React + Vite
+# First React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is used for my first React project. It was created following the course video from FreeCodeCamp's Youtube channel:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org
